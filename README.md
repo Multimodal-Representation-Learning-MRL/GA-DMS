@@ -7,10 +7,10 @@ Ziyong Feng,</span>
 <a href="https://kaicheng-yang0828.github.io">Kaicheng Yang</a>,</span>
 Qichuan Ding,</span>
 
-[📄 Paper](https://arxiv.org/pdf/2504.17432) | [🤗 Web-Person Dataset](https://huggingface.co/datasets/Kaichengalex/WebPerson-5M)
+[📄 Paper](https://arxiv.org/pdf/2509.09118) | [🤗 Web-Person Dataset](https://huggingface.co/datasets/Kaichengalex/WebPerson-5M)
 
 ## 🎺 News
-- [2025/09/12]: ✨We public the [paper](https://arxiv.org/pdf/2504.17432) of GA-DMS.
+- [2025/09/12]: ✨We public the [paper](https://arxiv.org/pdf/2509.09118) of GA-DMS.
 - [2025/09/10]: ✨We release the Web-Person Dataset in [🤗 Huggingface](https://huggingface.co/datasets/Kaichengalex/WebPerson-5M)
 - [2025/08/21]: ✨GA-DMS has been accepted by EMNLP2025 Main.
 
@@ -56,6 +56,14 @@ This project is based on [MLLM4Text-ReID](https://github.com/WentaoTan/MLLM4Text
 ## 📖 Citation
 If you find this repository useful, please use the following BibTeX entry for citation.
 ```latex
-
+@misc{zheng2025gradientattentionguideddualmaskingsynergetic,
+      title={Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust Text-based Person Retrieval}, 
+      author={Tianlu Zheng and Yifan Zhang and Xiang An and Ziyong Feng and Kaicheng Yang and Qichuan Ding},
+      year={2025},
+      eprint={2509.09118},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2509.09118}, 
+}
 ```
 
