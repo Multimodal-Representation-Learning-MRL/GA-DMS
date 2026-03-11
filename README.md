@@ -10,6 +10,7 @@ Qichuan Ding,</span>
 [📄 Paper](https://arxiv.org/pdf/2509.09118) | [🤗 Web-Person Dataset](https://huggingface.co/datasets/Kaichengalex/WebPerson-5M)
 
 ## 🎺 News
+- [2026/03/11]: ✨We update the code of GA-DMS.
 - [2025/09/12]: ✨We public the [paper](https://arxiv.org/pdf/2509.09118) of GA-DMS.
 - [2025/09/10]: ✨We release the Web-Person Dataset in [🤗 Huggingface](https://huggingface.co/datasets/Kaichengalex/WebPerson-5M)
 - [2025/08/21]: ✨GA-DMS has been accepted by EMNLP2025 Main.
@@ -47,7 +48,7 @@ pip install -r requirements.txt
 ```
 
 ## Pretrain Model Checkpoints
-We release the Pretrain Model Checkpoints at [here](https://github.com/xiaolu-luu/GA-DMS). \
+We release the Pretrain Model Checkpoints at [here](https://pan.baidu.com/s/1s7Y3BRusVbNtnh1LmvS3iQ). \
 To fine-tune model, you can simply run ```sh finetune.sh --finetune checkpoint.pth```. After the model training is completed, it will provide the performance of fine-tune setting.
 
 ## Acknowledgements
