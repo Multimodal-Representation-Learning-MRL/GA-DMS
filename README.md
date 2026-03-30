@@ -48,7 +48,9 @@ pip install -r requirements.txt
 ```
 
 ## Pretrain Model Checkpoints
-We release the Pretrain Model Checkpoints at [here](https://pan.baidu.com/s/1s7Y3BRusVbNtnh1LmvS3iQ). \
+We release the Pretrain Model Checkpoints at [here](https://pan.baidu.com/s/1s7Y3BRusVbNtnh1LmvS3iQ). key=ztlk\
+To pertrain model,you can simply run  ```sh run_ddp.sh ```
+
 To fine-tune model, you can simply run ```sh finetune.sh --finetune checkpoint.pth```. After the model training is completed, it will provide the performance of fine-tune setting.
 
 ## Acknowledgements

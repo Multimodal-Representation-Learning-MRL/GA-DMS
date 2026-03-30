@@ -34,7 +34,7 @@ def set_seed(seed=0):
 
 if __name__ == '__main__':
     args = get_args()
-    set_seed(5+get_rank())
+    set_seed(get_rank())
     name = args.name
 
     args.distributed = False
